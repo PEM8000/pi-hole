@@ -6,6 +6,4 @@ yggtorrent[.se]##.pulse.donate
 yggtorrent.se###over-18-notification
 yggtorrent.se##.col-lg-12 > div:nth-of-type(2)
 yggtorrent.se##.ad-alert-message-text
-yggtorrent.se*3p-scriptblock
-yggtorrent.se*1p-scriptblock
 www2.yggtorrent.se/assets/img/vpn_banner.gif$image
